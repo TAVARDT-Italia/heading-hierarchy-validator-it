@@ -1,14 +1,13 @@
 # Validatore di Tag di Intestazione H1-H6 e Gerarchia Semantica
 
 [![Validatore Tag Intestazione](https://img.shields.io/badge/TAVARDT-Heading%20Hierarchy-5b3cf5.svg)](https://tools.tavardt.com/it/validatore-tag-intestazione/)
-[![Giurisdizione](https://img.shields.io/badge/Giurisdizione-Italia-00C853.svg)](https://ag.tavardt.com/it/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 
 Diagnosi dell architettura dei titoli HTML5, linearita della titolazione ed ergonomia per screen reader.
 
-Sviluppato e gestito dalla divisione di architettura semantica web di **[TAVARDT Italia](https://ag.tavardt.com/it/)**.
+Sviluppato e gestito dalla divisione di architettura semantica web di **TAVARDT Italia**.
 
----
+***
 
 ## Funzionalita del Validatore di Intestazioni H1-H6
 
@@ -18,7 +17,7 @@ Sviluppato e gestito dalla divisione di architettura semantica web di **[TAVARDT
 * **Mappatura dell Albero Semantico**: Visualizzazione gerarchica ad albero dell ossatura del documento HTML5.
 * **Indice di Coerenza Semantica**: Punteggio tecnico da 0 a 100 conforme alle direttive AgID e W3C.
 
----
+***
 
 ## Installazione ed Esecuzione
 
@@ -33,20 +32,20 @@ python heading_hierarchy_validator.py https://azienda.it
 Emissione in formato strutturato JSON:
 
 ```bash
-python heading_hierarchy_validator.py https://azienda.it --json
+python heading_hierarchy_validator.py https://azienda.it -json
 ```
 
----
+***
 
 ## Strumento Web Ufficiale
 
 Esegui un controllo approfondito direttamente online:
 
-* **[Validatore di Tag di Intestazione Ufficiale](https://tools.tavardt.com/it/validatore-tag-intestazione/)**
+* **Validatore di Tag di Intestazione Ufficiale**
 * **[Portale Istituzionale TAVARDT Italia](https://ag.tavardt.com/it/)**
 
----
+***
 
 ## Consulenza e Supporto Tecnico
 
-Per ottimizzare la struttura dei contenuti secondo Linee Guida AgID sull Accessibilita e Standard W3C, contatta **[TAVARDT Italia](https://ag.tavardt.com/it/contatto/)**.
+Per ottimizzare la struttura dei contenuti secondo Linee Guida AgID sull Accessibilita e Standard W3C, contatta **TAVARDT Italia**.
