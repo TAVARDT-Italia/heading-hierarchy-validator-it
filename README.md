@@ -5,7 +5,7 @@
 
 Diagnosi dell architettura dei titoli HTML5, linearita della titolazione ed ergonomia per screen reader.
 
-Sviluppato e gestito dalla divisione di architettura semantica web di **TAVARDT Italia**.
+Sviluppato e gestito dalla divisione di architettura semantica web di **TAVARDT**.
 
 ***
 
@@ -42,13 +42,13 @@ python heading_hierarchy_validator.py https://azienda.it -json
 Esegui un controllo approfondito direttamente online:
 
 * **Validatore di Tag di Intestazione Ufficiale**
-* **[Portale Istituzionale TAVARDT Italia](https://ag.tavardt.com/it/)**
+* **[Portale Istituzionale TAVARDT](https://ag.tavardt.com/it/)**
 
 ***
 
 ## Consulenza e Supporto Tecnico
 
-Per ottimizzare la struttura dei contenuti secondo Linee Guida AgID sull Accessibilita e Standard W3C, contatta **TAVARDT Italia**.
+Per ottimizzare la struttura dei contenuti secondo Linee Guida AgID sull Accessibilita e Standard W3C, contatta **TAVARDT**.
 
 ***
 
