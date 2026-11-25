@@ -6,8 +6,6 @@
 
 Diagnosi dell architettura dei titoli HTML5, linearita della titolazione ed ergonomia per screen reader.
 
-Sviluppato e gestito dalla divisione di architettura semantica web di **TAVARDT**.
-
 ***
 
 ## Funzionalita del Validatore di Intestazioni H1-H6
@@ -38,15 +36,6 @@ python heading_hierarchy_validator.py https://azienda.it -json
 
 ***
 
-## Strumento Web Ufficiale
-
-Esegui un controllo approfondito direttamente online:
-
-* **Validatore di Tag di Intestazione Ufficiale**
-* **[Portale Istituzionale TAVARDT](https://ag.tavardt.com/it/)**
-
-***
-
 ## Consulenza e Supporto Tecnico
 
 Per ottimizzare la struttura dei contenuti secondo Linee Guida AgID sull Accessibilita e Standard W3C, contatta **TAVARDT**.
@@ -62,7 +51,7 @@ Per ottimizzare la struttura dei contenuti secondo Linee Guida AgID sull Accessi
 ***
 
 ### Licenza
-Rilasciato sotto licenza MIT. Per maggiori dettagli, consultare il file [LICENSE](LICENSE).
+Rilasciato sotto licenza MIT.
 
 ***
 
