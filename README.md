@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://ag.tavardt.com/it/">
+    <img src="https://ag.tavardt.com/img/tavardt-banner.png" alt="TAVARDT" width="1024" />
+  </a>
+</p>
+
 # Validatore di Tag di Intestazione H1-H6 e Gerarchia Semantica
 
 [![Validatore Tag Intestazione](https://img.shields.io/badge/TAVARDT-Heading%20Hierarchy-5b3cf5.svg)](https://tools.tavardt.com/it/validatore-tag-intestazione/)
